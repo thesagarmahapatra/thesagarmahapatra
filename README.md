@@ -1,4 +1,4 @@
-# Hi there, I'm Sagar Swaraj Mahapatra 👋
+# Hi there, I'm Sagar Swaraj Mahapatra 
 
 I am a **Grad Student** at **IIT Bombay** specializing in Machine Learning. My work bridges the gap between deep learning research—specifically Large Language Models—and high-performance system administration.
 
