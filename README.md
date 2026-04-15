@@ -1,4 +1,4 @@
-# Hi there, I'm Sagar Swaraj Mahapatra 👋
+# Hi there, I'm Sagar Swaraj Mahapatra 
 
 I am an **M.Tech Research Assistant** at **IIT Bombay** specializing in **Machine Learning**. My work exists at the intersection of deep learning research—specifically Large Language Models—and high-performance system administration.
 
@@ -8,8 +8,7 @@ I am an **M.Tech Research Assistant** at **IIT Bombay** specializing in **Machin
 ---
 
 ### 🚀 Research & Development
-My research focuses on making **Large Language Models (LLMs)** faster and more linguistically aware, particularly for Indic languages.
-
+My research focuses on making **Large Language Models (LLMs)** faster and more linguistically aware.
 - **LLM Efficiency:** Exploring speculative decoding frameworks like **EAGLE** and **SpecDec++**.
 - **Architecture:** Modifying **Rotary Positional Embeddings (RoPE)** to optimize long-context performance.
 - **Structural Samanvaya:** Building an LLM-driven treebank synthesis framework and structure-aware word grouping.
@@ -24,17 +23,17 @@ I serve as a **Computer Centre System Administrator (CC SysAd)** at IITB, managi
 - **Environment:** Daily driver is **Pop!_OS / Ubuntu**; proficient in `tmux`, `vim`, and bash automation.
 
 ### 📊 Currently Working On...
-- 📈 **Quantitative Trading:** Competing in **IMC Prosperity 2026** with a multi-disciplinary team.
+- 📈 **Quantitative Trading:** Competing in **IMC Prosperity 2026**.
 - 🎓 **MTP Stage 1:** Developing structure-aware neural architectures for my Master's Thesis.
 - ⚡ **Inference Acceleration:** Improving decoding speeds for low-resource Indian languages.
 
 ### 🛠 Tech Stack
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Python, C++, Bash, SQL |
+| **Languages** | Python, C++, Bash, SQL, JavaScript |
 | **AI/ML** | PyTorch, Transformers, LLM Quantization, BPE Tokenization |
 | **Infrastructure** | Proxmox, Linux SysAdmin, Git, Docker, Postfix |
-| **Quantitative** | Signal Processing, Data Science, Statistical Modeling |
+| **Quantitative** | Quant Finance, Data Science, Statistical Modeling|
 
 ---
 
@@ -46,4 +45,4 @@ I serve as a **Computer Centre System Administrator (CC SysAd)** at IITB, managi
 
 ---
 **GitHub Stats**
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesagarmahapatra&show_icons=true&theme=radical)
