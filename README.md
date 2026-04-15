@@ -44,5 +44,3 @@ I serve as a **Computer Centre System Administrator (CC SysAd)** at IITB, managi
 > *"Can machines really think?"* — Alan Turing (1950)
 
 ---
-**GitHub Stats**
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesagarmahapatra&show_icons=true&theme=radical)
