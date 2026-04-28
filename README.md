@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar Swaraj Mahapatra 
 
-I am a **Graduate Research Assistant** at **IIT Bombay** specializing in **Machine Learning**. My work exists at the intersection of deep learning research—specifically Large Language Models—and high-performance system architecture.
+I am a **Graduate Research Assistant** at **IIT Bombay** specializing in **Machine Learning**. My work exists at the intersection of deep learning research specifically Large Language Models and high performance system architecture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sagar-mahapatra/)
 [![IIT Bombay](https://img.shields.io/badge/IIT_Bombay-Research_Assistant-maroon?style=flat-square)](https://www.iitb.ac.in)
