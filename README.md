@@ -23,7 +23,6 @@ I serve as a **Computer Centre System Administrator (CC SysAd)** at IITB, managi
 * **Environment:** Daily driver is **Pop!_OS / Ubuntu**; proficient in `tmux`, `vim`, and bash automation.
 
 ### 📊 Currently Working On...
-* 📈 **Quantitative Trading:** Competing in **IMC Prosperity 2026**.
 * 🎓 **Integrated Thesis (Stage 1):** Developing structure-aware neural architectures for my final research dissertation.
 * ⚡ **Inference Acceleration:** Improving decoding speeds for low-resource Indian languages.
 
